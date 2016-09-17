@@ -1,0 +1,9 @@
+com\mkyong\rest\UserService.class
+com\mkyong\rest\HelloWorldService.class
+com\jana\model\URLObject.class
+com\jana\util\ConnectionFactory.class
+com\jana\model\Device.class
+com\jana\mapper\URLObjectMapper.class
+com\mkyong\rest\DeviceService.class
+com\jana\model\User.class
+com\jana\util\URLObjectManager.class
